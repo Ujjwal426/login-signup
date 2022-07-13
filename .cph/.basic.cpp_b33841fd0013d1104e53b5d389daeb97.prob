@@ -1,0 +1,1 @@
+{"name":"Local: basic","url":"d:\\WorkSpace\\Projects\\register-login-page\\basic.cpp","tests":[{"id":1657702807859,"input":"7\n3 5 7 8 8 116\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\WorkSpace\\Projects\\register-login-page\\basic.cpp","group":"local","local":true}
